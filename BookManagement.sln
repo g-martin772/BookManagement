@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManagementApi", "BookManagementApi\BookManagementApi.csproj", "{C5304092-AF57-429F-9969-3D8D1E7135A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{A1D0B461-6DFE-48DA-97DA-95723EF1F328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManagementUI", "BookManagementUI\BookManagementUI.csproj", "{562AF0ED-A396-4D22-83A0-7366F7576968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManagementApiSchema", "BookManagementApiSchema\BookManagementApiSchema.csproj", "{6B194831-CF2B-4DED-AA3C-1BD7450BF59C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5304092-AF57-429F-9969-3D8D1E7135A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5304092-AF57-429F-9969-3D8D1E7135A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5304092-AF57-429F-9969-3D8D1E7135A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5304092-AF57-429F-9969-3D8D1E7135A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D0B461-6DFE-48DA-97DA-95723EF1F328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D0B461-6DFE-48DA-97DA-95723EF1F328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D0B461-6DFE-48DA-97DA-95723EF1F328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D0B461-6DFE-48DA-97DA-95723EF1F328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{562AF0ED-A396-4D22-83A0-7366F7576968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562AF0ED-A396-4D22-83A0-7366F7576968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562AF0ED-A396-4D22-83A0-7366F7576968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562AF0ED-A396-4D22-83A0-7366F7576968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B194831-CF2B-4DED-AA3C-1BD7450BF59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B194831-CF2B-4DED-AA3C-1BD7450BF59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B194831-CF2B-4DED-AA3C-1BD7450BF59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B194831-CF2B-4DED-AA3C-1BD7450BF59C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
